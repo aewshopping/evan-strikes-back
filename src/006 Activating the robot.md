@@ -1,7 +1,7 @@
 ---
 id: a006
 permalink: a006
-title: The robot
+title: 006 The robot
 sort_key_fixed: auto
 sort_key_calc:
 options_text:

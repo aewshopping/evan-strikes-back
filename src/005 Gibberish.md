@@ -1,7 +1,7 @@
 ---
 id: a005
 permalink: a005
-title: Gibberish
+title: 005 Gibberish
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
@@ -9,7 +9,7 @@ options_text:
 options_id:
   - a003
 options_link:
-  - "[[003 Robot fix]]"
+  - "[[003 Robot fix | try to fix robot]]"
 tags:
   - chapter
   - part1

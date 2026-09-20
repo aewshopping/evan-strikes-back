@@ -9,7 +9,7 @@ options_text:
 options_id:
   - a003
 options_link:
-  - "[[003 Robot fix]]"
+  - "[[003 Robot fix | try to fix the robot ]]"
 tags:
   - chapter
   - part1

@@ -13,9 +13,9 @@ options_id:
   - a006
   - a004
 options_link:
-  - "[[005 Gibberish]]"
-  - "[[006 Activating the robot]]"
-  - "[[004 Bodge job]]"
+  - "[[005 Gibberish | open chest panel ]]"
+  - "[[006 Activating the robot | press silver button ]]"
+  - "[[004 Bodge job | screwdriver in belly button ]]"
 tags:
   - chapter
   - part1
