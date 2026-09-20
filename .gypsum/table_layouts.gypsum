@@ -1,0 +1,144 @@
+{
+  "layoutVersion": 2,
+  "propertyTypes": {
+    "options_text": {
+      "type": "array",
+      "search_type": "string"
+    },
+    "options_id": {
+      "type": "array",
+      "search_type": "string"
+    },
+    "options_link": {
+      "type": "array",
+      "search_type": "string"
+    }
+  },
+  "active": null,
+  "layouts": {
+    "story-layout": {
+      "updated": "2026-09-20T13:45:59.917Z",
+      "columns": [
+        {
+          "order": 0,
+          "name": "internalId",
+          "label": "file",
+          "width": 90,
+          "visible": true
+        },
+        {
+          "order": 1,
+          "name": "filename",
+          "label": "filename",
+          "width": 250,
+          "visible": true
+        },
+        {
+          "order": 2,
+          "name": "title",
+          "label": "title",
+          "width": 350,
+          "visible": true
+        },
+        {
+          "order": 3,
+          "name": "tags",
+          "label": "tags",
+          "width": 200,
+          "visible": true
+        },
+        {
+          "order": 4,
+          "name": "lastModified",
+          "label": "last modified",
+          "width": 175,
+          "visible": false
+        },
+        {
+          "order": 5,
+          "name": "sizeInBytes",
+          "label": "size",
+          "width": 120,
+          "visible": false
+        },
+        {
+          "order": 6,
+          "name": "internalLink",
+          "label": "links",
+          "width": 250,
+          "visible": false
+        },
+        {
+          "order": 7,
+          "name": "internalLinkText",
+          "label": "link text",
+          "width": 250,
+          "visible": false
+        },
+        {
+          "order": 8,
+          "name": "color",
+          "label": "color",
+          "width": 150,
+          "visible": false
+        },
+        {
+          "order": 9,
+          "name": "filepath",
+          "label": "filepath",
+          "width": 300,
+          "visible": false
+        },
+        {
+          "order": 10,
+          "name": "errorOnLoad",
+          "label": "load error",
+          "width": 200,
+          "visible": false
+        },
+        {
+          "order": 11,
+          "name": "id",
+          "label": "id",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 12,
+          "name": "permalink",
+          "label": "permalink",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 13,
+          "name": "sort_key_fixed",
+          "label": "sort_key_fixed",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 14,
+          "name": "options_text",
+          "label": "options_text",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 15,
+          "name": "options_id",
+          "label": "options_id",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 16,
+          "name": "options_link",
+          "label": "options_link",
+          "width": 100,
+          "visible": true
+        }
+      ]
+    }
+  }
+}
