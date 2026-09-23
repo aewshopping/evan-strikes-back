@@ -11,8 +11,8 @@ options_id:
 options_link:
   - "[[003 Robot fix | try to fix robot ]]"
 tags:
-  - chapter
   - part1
+  - chapter
 ---
 
 You put the screwdriver in the robot's belly button and... It's bum falls off.

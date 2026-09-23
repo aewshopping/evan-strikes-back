@@ -11,8 +11,9 @@ options_id:
 options_link:
   - "[[003 Robot fix | try to fix the robot ]]"
 tags:
-  - chapter
   - part1
+  - chapter
+
 ---
 
 

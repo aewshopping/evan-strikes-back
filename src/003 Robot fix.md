@@ -17,8 +17,8 @@ options_link:
   - "[[006 Activating the robot | press silver button ]]"
   - "[[004 Bodge job | screwdriver in belly button ]]"
 tags:
-  - chapter
   - part1
+  - chapter
 ---
 
 You look carefully at the robot trying to figure out how to fix it.

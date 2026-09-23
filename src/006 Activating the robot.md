@@ -14,8 +14,8 @@ options_link:
   - "[[]]"
   - "[[]]"
 tags:
-  - chapter
   - part1
+  - chapter
 ---
 The robot turns on and announces himself as B9-QT1 a serving droid from the gamma quadrant.
 

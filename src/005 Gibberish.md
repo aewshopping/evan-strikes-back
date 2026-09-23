@@ -11,7 +11,7 @@ options_id:
 options_link:
   - "[[003 Robot fix | try to fix robot]]"
 tags:
-  - chapter
   - part1
+  - chapter
 ---
 You carefully open the robot's chest panel and poke around with a screwdriver. Robot speaks some amusing gibberish then shuts down again.

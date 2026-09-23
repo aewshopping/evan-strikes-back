@@ -14,10 +14,13 @@
       "search_type": "string"
     }
   },
-  "active": null,
+  "flowchart": {
+    "subgraph": "tags"
+  },
+  "active": "story-layout",
   "layouts": {
     "story-layout": {
-      "updated": "2026-09-20T13:45:59.917Z",
+      "updated": "2026-09-22T17:22:49.853Z",
       "columns": [
         {
           "order": 0,
@@ -31,7 +34,7 @@
           "name": "filename",
           "label": "filename",
           "width": 250,
-          "visible": true
+          "visible": false
         },
         {
           "order": 2,
