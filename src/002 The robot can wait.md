@@ -16,5 +16,16 @@ tags:
 
 ---
 
+Tearing yourself away from the golden robot boy, you look around at your other presents.
 
-You open all your presents, there are some really good ones. But your mind keeps going back to that golden robot. You make up your mind that you will get it working.
+Arthur impatiently insists you open his next: it is a bag of sweets, each one will make you fart in a different aroma. You read the package and see promises of thousands year old rotting eggs, raw sewage, chilli con carne and pineapple suprise. 
+
+"They're magical sweets," Arthur explains, "from Hogsnorts."
+
+"Thanks Arthur, that's brilliant." you say chewing hard and letting out a wonderful mustard and rotten banana flavoured guff.
+
+Next you turn to a present from your cousins Daniel and Robin. It's a self propelled football, that can turn corners by itself. You'll never lose another game, you think to yourself with a chuckle. 
+
+You unwrap more sweets, new socks and some great books. There's some coins for your piggy bank, pens for your pencil case and hair gel for your hair. Overall you couldn't be happier...
+
+... But you keep glancing over to that golden robot, lying down on the table. You've never seen anything like it before and you really want to get it working to see what it can do.

@@ -49,13 +49,13 @@ Without waiting for an answer you reach out your hands for the peculiarly shaped
 
 You rip off a bit a paper and something gold gleams underneath. 
 
-In a fever of excitement you rip off the rest of the wrapping paper to reveal a shining golden _statue_, the same shape and size of a ten year old boy. 
+In a fever of excitement you rip off the rest of the wrapping paper to reveal a shining golden _statue_, the shape and size of a ten year old boy. 
 
-It has golden arms, golden legs a golden body and a gold head. Only the eyes are not gold - the eyes are two pale circles made from transparent crystal.
+It has golden arms, golden legs and a golden body. It has golden fingers, golden toes and a shiny bald golden head. Only the eyes are not gold - the eyes are two pale transparent crystal circles.
 
-"That's so cool, thanks dad! A golden statue. I'll put it next to my bed. Is it solid gold?"
+"That's so cool, thanks dad! A golden statue. I'll put it next to my bed with my toys. Is it solid gold?"
 
-"Well," he coughs, "not _solid_ gold no, and it's not a statue, it's actually a robot! I found it abandoned in the electrical waste dump I walk past on my way home. It's not working right now but I thought together, we could fix it up."
+"Well," he coughs, "not _solid_ gold no, and it's not a statue, it's actually a robot! I found it abandoned in the electrical waste dump I walk past on my way home. It's not working right now but I thought together we could fix it up."
 
 "I want to help fix it too!" shouts your brother Arthur. 
 
