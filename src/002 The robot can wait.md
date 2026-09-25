@@ -18,9 +18,9 @@ tags:
 
 Tearing yourself away from the golden robot boy, you look around at your other presents.
 
-Arthur impatiently insists you open his next: it is a bag of sweets, each one will make you fart in a different aroma. You read the package and see promises of thousands year old rotting eggs, raw sewage, chilli con carne and pineapple suprise. 
+Arthur impatiently insists you open his present next: it is a bag of sweets, each one will make you fart with a different smell. You read the package and see promised aromas of: thousand year old rotting eggs, overflow sewage, putrid chilli con carne, and pineapple suprise. 
 
-"They're magical sweets," Arthur explains, "from Hogsnorts."
+"They're magical sweets," Arthur explains, "from Hogsnorts tuck shop"
 
 "Thanks Arthur, that's brilliant." you say chewing hard and letting out a wonderful mustard and rotten banana flavoured guff.
 
@@ -28,4 +28,4 @@ Next you turn to a present from your cousins Daniel and Robin. It's a self prope
 
 You unwrap more sweets, new socks and some great books. There's some coins for your piggy bank, pens for your pencil case and hair gel for your hair. Overall you couldn't be happier...
 
-... But you keep glancing over to that golden robot, lying down on the table. You've never seen anything like it before and you really want to get it working to see what it can do.
+...But you keep glancing over to that golden robot, lying down on the table. You've never seen anything like it before and you really want to get it working to see what it can do.
