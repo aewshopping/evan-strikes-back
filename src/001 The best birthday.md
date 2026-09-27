@@ -33,7 +33,7 @@ You yawn.
 
 You are very special. 
 
-Today you _think_ you are very special, because it is your birthday. But you are very special for another reason too, which you are totally unaware of. 
+Today you _think_ you are very special, because it is your birthday. But you are very special for another reason too, which right now you are totally unaware of. 
 
 "Wake up Evan!" yells your brother Arthur, back from Hogsnorts for the half hols. "Come and look at your presents!"
 
@@ -45,17 +45,21 @@ You run so fast into the living room that you bump into your dad who is wrestlin
 
 "What did you get for me dad?" you ask.
 
-Without waiting for an answer you reach out your hands for the peculiarly shaped object he has just placed on the table.
+Without waiting for an answer you reach out your hands for the peculiarly shaped parcel he has just placed on the table.
 
-You rip off a bit a paper and something gold gleams underneath. 
+You rip off a bit a paper and something _gold_ gleams underneath. 
 
 In a fever of excitement you rip off the rest of the wrapping paper to reveal a shining golden _statue_, the shape and size of a ten year old boy. 
 
-It has golden arms, golden legs and a golden body. It has golden fingers, golden toes and a shiny bald golden head. Only the eyes are not gold - the eyes are two pale transparent crystal circles.
+It has golden arms, golden legs and a golden body. It has golden fingers, golden toes and a shiny bald golden head. Only the eyes are not gold - two pale transparent crystal circles stare at you sightlessly.
 
-"That's so cool, thanks dad! A golden statue. I'll put it next to my bed with my toys. Is it solid gold?"
+"That's so cool, thanks dad! A golden statue, I've always wanted a golden statue. I'll put it next to my bed with my toys. Is it solid gold?"
 
-"Well," he coughs, "not _solid_ gold no, and it's not a statue, it's actually a robot! I found it abandoned in the electrical waste dump I walk past on my way home. It's not working right now but I thought together we could fix it up."
+"Well," he coughs, "not _solid_ gold no, and it's not a statue, it's actually a mechanical droid or robot of some sort. You can see the wires if you look into its ear-hole."
+
+You peer into its golden ears and sure enough you can just make out a tangle of hair-width-sized multi-coloured wires.
+
+Your dad continues: "I found it abandoned in that electrical waste dump I walk past on my way home - you can find some great stuff in there! - it's not working right now but I thought together we could fix it up."
 
 "I want to help fix it too!" shouts your brother Arthur. 
 

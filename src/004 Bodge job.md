@@ -15,5 +15,34 @@ tags:
   - chapter
 ---
 
-You put the screwdriver in the robot's belly button and... It's bum falls off.
-You click it back on.
+With trembling hands you insert your screwdriver into the golden robot's belly button.
+
+"Be _careful_ Evan," warns your brother.
+
+You don't answer him - you are concentrating hard.
+
+Slowly you twist the screwdriver. Nothing happens. You twist harder. Still nothing.
+
+"You've got to turn the screw the _other_ way!" says Arthur.
+
+"I knew that!" you hiss back, and try turning the screwdriver in the other direction.
+
+The screw starts to turn. It's working!
+
+Little by little the golden screw unscrews from the robot's tummy.
+
+Finally it comes out completely and the golden screw clunks onto the table.
+
+There is a silence.
+
+Then a sudden CLANK! that makes you and Arthur jump.
+
+"Look Evan," says Arthur, "his bum's fallen off!"
+
+He's right. Lying on the table is a gleaming golden bottom. But the robot is still just as motionless and silent as before.
+
+"Oh" you say.
+
+You carefully click the golden bum back into place and screw the golden screw back into the belly button.
+
+You will have to try something else.

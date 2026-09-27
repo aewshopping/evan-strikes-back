@@ -17,7 +17,7 @@
   "flowchart": {
     "subgraph": "tags"
   },
-  "active": "minimal",
+  "active": "story-layout",
   "layouts": {
     "story-layout": {
       "updated": "2026-09-22T17:22:49.853Z",
