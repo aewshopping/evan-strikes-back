@@ -19,7 +19,7 @@
   },
   "linkedProperties": {
     "linked:1": {
-      "label": "option_perma",
+      "label": "link_permalink",
       "via": "options_link",
       "read": "permalink"
     }
@@ -27,7 +27,7 @@
   "active": "story-layout",
   "layouts": {
     "story-layout": {
-      "updated": "2026-09-27T14:34:28.038Z",
+      "updated": "2026-09-27T20:23:50.226Z",
       "stickyColumns": 1,
       "columns": [
         {
@@ -144,31 +144,31 @@
         },
         {
           "order": 16,
+          "name": "linked:1",
+          "label": "linked:1",
+          "width": 145,
+          "visible": true
+        },
+        {
+          "order": 17,
           "name": "options_link",
           "label": "options_link",
           "width": 100,
           "visible": true
         },
         {
-          "order": 17,
+          "order": 18,
           "name": "fileIssues",
           "label": "issues",
           "width": 200,
           "visible": false
         },
         {
-          "order": 18,
+          "order": 19,
           "name": "sort_key_calc",
           "label": "sort_key_calc",
           "width": 100,
           "visible": false
-        },
-        {
-          "order": 19,
-          "name": "linked:1",
-          "label": "linked:1",
-          "width": 141,
-          "visible": true
         }
       ]
     },
@@ -306,13 +306,6 @@
           "order": 18,
           "name": "sort_key_calc",
           "label": "sort_key_calc",
-          "width": 100,
-          "visible": false
-        },
-        {
-          "order": 19,
-          "name": "linked:1",
-          "label": "linked:1",
           "width": 100,
           "visible": false
         }
