@@ -1,3 +1,9 @@
+---
+color: "#f0c8e5"
+---
+
+# Style guide
+
 Each chapter should be short, average length 200 to 300 words. 
 
 Prioritise character speech over descriptions. This is really important! Speech should be used to move the plot forward.

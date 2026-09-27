@@ -17,10 +17,18 @@
   "flowchart": {
     "subgraph": "tags"
   },
+  "linkedProperties": {
+    "linked:1": {
+      "label": "option_perma",
+      "via": "options_link",
+      "read": "permalink"
+    }
+  },
   "active": "story-layout",
   "layouts": {
     "story-layout": {
-      "updated": "2026-09-22T17:22:49.853Z",
+      "updated": "2026-09-27T14:34:28.038Z",
+      "stickyColumns": 1,
       "columns": [
         {
           "order": 0,
@@ -139,12 +147,34 @@
           "name": "options_link",
           "label": "options_link",
           "width": 100,
+          "visible": true
+        },
+        {
+          "order": 17,
+          "name": "fileIssues",
+          "label": "issues",
+          "width": 200,
+          "visible": false
+        },
+        {
+          "order": 18,
+          "name": "sort_key_calc",
+          "label": "sort_key_calc",
+          "width": 100,
+          "visible": false
+        },
+        {
+          "order": 19,
+          "name": "linked:1",
+          "label": "linked:1",
+          "width": 141,
           "visible": true
         }
       ]
     },
     "minimal": {
-      "updated": "2026-09-24T08:08:45.908Z",
+      "updated": "2026-09-27T14:53:44.023Z",
+      "stickyColumns": 0,
       "columns": [
         {
           "order": 0,
@@ -164,14 +194,14 @@
           "order": 2,
           "name": "title",
           "label": "title",
-          "width": 350,
+          "width": 155.90476989746094,
           "visible": true
         },
         {
           "order": 3,
           "name": "tags",
           "label": "tags",
-          "width": 200,
+          "width": 120.15252685546875,
           "visible": true
         },
         {
@@ -207,7 +237,7 @@
           "name": "color",
           "label": "color",
           "width": 150,
-          "visible": false
+          "visible": true
         },
         {
           "order": 9,
@@ -228,42 +258,63 @@
           "name": "id",
           "label": "id",
           "width": 100,
-          "visible": true
+          "visible": false
         },
         {
           "order": 12,
           "name": "permalink",
           "label": "permalink",
           "width": 100,
-          "visible": true
+          "visible": false
         },
         {
           "order": 13,
           "name": "sort_key_fixed",
           "label": "sort_key_fixed",
           "width": 100,
-          "visible": true
+          "visible": false
         },
         {
           "order": 14,
           "name": "options_text",
           "label": "options_text",
           "width": 100,
-          "visible": true
+          "visible": false
         },
         {
           "order": 15,
           "name": "options_id",
           "label": "options_id",
           "width": 100,
-          "visible": true
+          "visible": false
         },
         {
           "order": 16,
           "name": "options_link",
           "label": "options_link",
           "width": 100,
-          "visible": true
+          "visible": false
+        },
+        {
+          "order": 17,
+          "name": "fileIssues",
+          "label": "issues",
+          "width": 200,
+          "visible": false
+        },
+        {
+          "order": 18,
+          "name": "sort_key_calc",
+          "label": "sort_key_calc",
+          "width": 100,
+          "visible": false
+        },
+        {
+          "order": 19,
+          "name": "linked:1",
+          "label": "linked:1",
+          "width": 100,
+          "visible": false
         }
       ]
     }

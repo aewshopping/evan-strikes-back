@@ -1,3 +1,9 @@
+---
+color: "#cef0c8"
+---
+
+# B9-QT1 character guide
+
 #character 
 
 Overview: a diminutive, camp golden robot. Will do anything for his master and frets about things going wrong constantly. He is many centuries old although looks brand new. 
