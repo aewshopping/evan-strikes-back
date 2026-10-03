@@ -15,8 +15,10 @@
     }
   },
   "flowchart": {
-    "subgraph": "tags"
+    "subgraph": "tags",
+    "connectors": "options_link"
   },
+  "linkedProperties": {},
   "active": "story-layout",
   "layouts": {
     "story-layout": {
