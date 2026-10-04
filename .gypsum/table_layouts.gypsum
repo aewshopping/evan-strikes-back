@@ -1,12 +1,172 @@
 {
   "layoutVersion": 2,
-  "propertyTypes": {},
+  "propertyTypes": {
+    "options_text": {
+      "type": "array",
+      "search_type": "string"
+    },
+    "options_link": {
+      "type": "array",
+      "search_type": "string"
+    },
+    "options_id": {
+      "type": "array"
+    }
+  },
   "flowchart": {
     "nodeText": "filename",
-    "subgraph": "tags"
+    "subgraph": "tags",
+    "connectors": "options_link"
   },
   "flowchartLayout": {},
-  "linkedProperties": {},
-  "active": null,
-  "layouts": {}
+  "linkedProperties": {
+    "linked:1": {
+      "label": "options_linked_permalink",
+      "via": "options_link",
+      "read": "permalink",
+      "copyTo": "options_id"
+    }
+  },
+  "active": "story_layout",
+  "layouts": {
+    "story_layout": {
+      "updated": "2026-10-04T09:58:15.231Z",
+      "stickyColumns": 2,
+      "columns": [
+        {
+          "order": 0,
+          "name": "internalId",
+          "label": "file",
+          "width": 90,
+          "visible": true
+        },
+        {
+          "order": 1,
+          "name": "filename",
+          "label": "filename",
+          "width": 250,
+          "visible": true
+        },
+        {
+          "order": 2,
+          "name": "title",
+          "label": "title",
+          "width": 253,
+          "visible": true
+        },
+        {
+          "order": 3,
+          "name": "color",
+          "label": "color",
+          "width": 150,
+          "visible": true
+        },
+        {
+          "order": 4,
+          "name": "tags",
+          "label": "tags",
+          "width": 200,
+          "visible": true
+        },
+        {
+          "order": 5,
+          "name": "lastModified",
+          "label": "last modified",
+          "width": 175,
+          "visible": true
+        },
+        {
+          "order": 6,
+          "name": "sizeInBytes",
+          "label": "size",
+          "width": 120,
+          "visible": true
+        },
+        {
+          "order": 7,
+          "name": "internalLink",
+          "label": "links",
+          "width": 250,
+          "visible": false
+        },
+        {
+          "order": 8,
+          "name": "internalLinkText",
+          "label": "link text",
+          "width": 250,
+          "visible": false
+        },
+        {
+          "order": 9,
+          "name": "filepath",
+          "label": "filepath",
+          "width": 300,
+          "visible": false
+        },
+        {
+          "order": 10,
+          "name": "fileIssues",
+          "label": "issues",
+          "width": 200,
+          "visible": false
+        },
+        {
+          "order": 11,
+          "name": "id",
+          "label": "id",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 12,
+          "name": "permalink",
+          "label": "permalink",
+          "width": 112,
+          "visible": true
+        },
+        {
+          "order": 13,
+          "name": "sort_key_fixed",
+          "label": "sort_key_fixed",
+          "width": 146,
+          "visible": true
+        },
+        {
+          "order": 14,
+          "name": "sort_key_calc",
+          "label": "sort_key_calc",
+          "width": 140,
+          "visible": true
+        },
+        {
+          "order": 15,
+          "name": "options_text",
+          "label": "options_text",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 16,
+          "name": "options_id",
+          "label": "options_id",
+          "width": 100,
+          "visible": true
+        },
+        {
+          "order": 17,
+          "name": "options_link",
+          "label": "options_link",
+          "width": 519,
+          "visible": true
+        },
+        {
+          "order": 18,
+          "name": "linked:1",
+          "label": "linked:1",
+          "width": 100,
+          "visible": true
+        }
+      ]
+    }
+  }
 }

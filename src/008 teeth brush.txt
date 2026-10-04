@@ -1,0 +1,19 @@
+---
+title: Knasher basher
+
+id: a008
+permalink: a008
+sort_key_fixed: auto
+sort_key_calc:
+options_text:
+  - first decision text
+
+options_link:
+  - "[[src/010 robo clean.txt | robo clean]]"
+tags:
+  - part1
+  - chapter
+options_id:
+  - a010
+---
+

@@ -1,0 +1,19 @@
+---
+title: Bedroom blitz
+
+id: a007
+permalink: a007
+sort_key_fixed: auto
+sort_key_calc:
+options_text:
+  - first decision text
+
+options_link:
+  - "[[src/011 brush teeth.txt | brush teeth]]"
+tags:
+  - part1
+  - chapter
+options_id:
+  - a011
+---
+

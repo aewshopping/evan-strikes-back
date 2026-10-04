@@ -1,0 +1,9 @@
+---
+title: The Chevin
+tags:
+  - part2
+  - chapter
+id: a012
+sort_key_fixed: auto
+permalink: a012
+---

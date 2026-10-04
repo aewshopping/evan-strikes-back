@@ -1,0 +1,14 @@
+---
+title: Bedroom blitz
+options_link:
+  - "[[src/009 secret message.txt | secret message]]"
+tags:
+  - part1
+  - chapter
+id: a010
+sort_key_fixed: auto
+permalink: a010
+options_id:
+  - a009
+---
+

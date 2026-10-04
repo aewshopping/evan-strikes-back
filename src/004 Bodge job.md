@@ -1,7 +1,7 @@
 ---
 id: a004
 permalink: a004
-title: 004 Bodge job
+title: Bodge job
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
@@ -13,6 +13,7 @@ options_link:
 tags:
   - part1
   - chapter
+color: "#c8e6f0"
 ---
 
 With trembling hands you insert your screwdriver into the golden robot's belly button.

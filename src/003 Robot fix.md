@@ -1,7 +1,7 @@
 ---
 id: a003
 permalink: a003
-title: 003 Robot fix
+title: Robot fix
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
@@ -19,6 +19,7 @@ options_link:
 tags:
   - part1
   - chapter
+color: "#c8e6f0"
 ---
 
 The golden robot lying on the table looks different to the simple dinner-lady droids in the school canteen. Those ones have six arms so they can dish out the food more speedily, but just wheels instead of legs, and they are deliberately kept simple with tiny lightbulb sized heads.

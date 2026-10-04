@@ -1,7 +1,7 @@
 ---
 id: a001
 permalink: a001
-title: 001 The best birthday
+title: The best birthday
 sort_key_fixed: 1
 sort_key_calc:
 
@@ -20,6 +20,7 @@ options_link:
 tags:
   - part1
   - chapter
+color: "#c8e6f0"
 ---
 
 

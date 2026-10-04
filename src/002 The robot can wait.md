@@ -1,7 +1,7 @@
 ---
 id: a002
 permalink: a002
-title: 002 The robot can wait
+title: The robot can wait
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
@@ -14,6 +14,7 @@ tags:
   - part1
   - chapter
 
+color: "#c8e6f0"
 ---
 
 Tearing yourself away from the golden robot boy, you look around at your other presents.

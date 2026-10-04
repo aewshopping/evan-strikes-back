@@ -1,0 +1,14 @@
+---
+title: Knasher basher
+options_link:
+  - "[[src/009 secret message.txt | secret message]]"
+tags:
+  - part1
+  - chapter
+id: a011
+sort_key_fixed: auto
+permalink: a011
+options_id:
+  - a009
+---
+

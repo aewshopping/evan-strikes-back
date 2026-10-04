@@ -1,7 +1,7 @@
 ---
 id: a005
 permalink: a005
-title: 005 Gibberish
+title: Gibberish
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
