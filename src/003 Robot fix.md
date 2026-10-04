@@ -5,7 +5,7 @@ title: Robot fix
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
-  - You open the robot's chest panel and poke around with a screwdriver.
+  - You open the robot's skull panel and poke around with a screwdriver.
   - You press the small silver button on the back of the robot's neck.
   - You try putting your screwdriver in the belly button of the robot and unscrewing the golden screw.
 options_id:
@@ -13,7 +13,7 @@ options_id:
   - a006
   - a004
 options_link:
-  - "[[005 Gibberish | open chest panel ]]"
+  - "[[005 Gibberish | open skull panel ]]"
   - "[[006 Activating the robot | press silver button ]]"
   - "[[004 Bodge job | screwdriver in belly button ]]"
 tags:
@@ -30,7 +30,7 @@ This robot looks _clever_. It's head is normal size, it should be able to walk b
 
 You study the robot carefully with Arthur breathing over your shoulder while your dad sits back on the sofa and checks his phone for messages.
 
-You notice that the chest of the robot has what looks like a panel or hatch that can be opened up, allowing access to the innards of the automaton. There might be something in there that will get it up and running.
+You notice that the on the top of the robot' head is what looks like a panel or hatch that can be opened up, allowing access to the brain case of the automaton. There might be something in there that will get it up and running.
 
 At the same time you see a little button sticking out from the back of the robot's neck. It is a rounded button, a bit like the one on your game console's controller, but instead of being made of plastic it looks like it is pure silver. You are very tempted to press it and see what happens...
 

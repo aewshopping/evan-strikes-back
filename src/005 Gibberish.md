@@ -14,4 +14,4 @@ tags:
   - part1
   - chapter
 ---
-You carefully open the robot's chest panel and poke around with a screwdriver. Robot speaks some amusing gibberish then shuts down again.
+You carefully open the robot's head panel and poke around with a screwdriver. Robot speaks some amusing gibberish then shuts down again.
