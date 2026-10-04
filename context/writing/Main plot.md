@@ -1,3 +1,9 @@
+---
+color: "#f0c8e5"
+---
+
+# Plot summary
+
 Emperor Palindrome has felt the special 'another one' born on earth with incredible powers, detecting him by ripples in the force.
 
 This 'another one' is Evan Otley.

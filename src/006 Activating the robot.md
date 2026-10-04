@@ -11,9 +11,6 @@ options_id:
   - a
   - a
 options_link:
-  - "[[]]"
-  - "[[src/anothernote.txt]]"
-  - "[[src/note-1.txt]]"
 tags:
   - part1
   - chapter
