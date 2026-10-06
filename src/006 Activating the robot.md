@@ -5,8 +5,8 @@ permalink: a006
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
-  - first decision text
-  - second decision text
+  - It's so unfair! but what can you do? You go to get dressed and tidy your room
+  - Your teeth do feel a bit sticky, you decide to brush them first
 options_id:
   - a007
   - a008
@@ -16,13 +16,14 @@ options_link:
 tags:
   - part1
   - chapter
+color: "#c8e6f0"
 ---
 
 You reach out and, with trembling hands, press the silver button on the back of the robot's neck.
 
 The flat circular eyes of the robot flicker into life, shining with an unearthly white glow. 
 
-You and Arthur take a step back, excitement and fear contesting within you - it's waking up!
+You and Arthur take a step back, feeling excitement and fear - it's waking up!
 
 The boy sized golden robot doesn't move from his awkward position lying on his side on the table. But his head slowly swivels until his eyes are pointing right at you, like two bicycle lights.
 
@@ -34,7 +35,7 @@ The boy sized golden robot doesn't move from his awkward position lying on his s
 
 You are absolutely delighted - the robot works! It can speak! And it doesn't seem dangerously insane at all! 
 
-"What's your name?" you ask breathless with excitement. Your own robot! 
+"What's your name?" you ask breathless with excitement: your own robot! 
 
 "My name is B9-QT1, and may I ask who you are?"
 
@@ -46,10 +47,11 @@ Now it is the robot's turn to be excited. Almost more quickly than the eye can f
 
 "Well that's us, and that's me: Evan Otley" you reply.
 
-"Finally I can deliver my message! I have travelled through half the galaxy, all the way from the gamma quadrant! to find you Evan. I have something very important to tell you. 
+"Finally I can deliver my message! I have travelled through half the galaxy -  all the way from the gamma quadrant - to find you Evan. I have something very important to tell you. It's a matter of life and death. 
 
-"Whoa whoa whoa!" interjects your dad. "Now steady on. Before anyone listens to any secret message you need to...
+"Whoa whoa whoa!" interjects your dad. "Now steady on. Just hang on a minute. This is going too far! Secret message indeed! You are not even dressed. Have you brushed your teeth yet?"
 
+"But dad," you complain, "I want to listen the secret message from the golden robot."
 
-The robot turns on and announces himself as B9-QT1 a serving droid from the gamma quadrant.
+"Brush your teeth first, get dressed and tidy your room, _then_ you can listen to the secret message."
 
