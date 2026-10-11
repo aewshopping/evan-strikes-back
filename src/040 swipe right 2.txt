@@ -1,0 +1,12 @@
+---
+tags:
+  - part2
+  - chapter
+sort_key_fixed: auto
+
+options_link:
+  - "[[src/033 block.txt]]"
+  - "[[src/034 swipe left.txt]]"
+  - "[[src/035 swipe right.txt]]"
+---
+

@@ -6,5 +6,8 @@ tags:
 id: a030
 sort_key_fixed: auto
 permalink: a030
+options_link:
+  - "[[src/031 practice sword fight.txt]]"
+  - "[[src/032 take your guard.txt]]"
 ---
 You begin your final training session with a light sword

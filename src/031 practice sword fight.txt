@@ -1,0 +1,9 @@
+---
+tags:
+  - part2
+  - chapter
+sort_key_fixed: auto
+options_link:
+  - "[[src/032 take your guard.txt]]"
+---
+
