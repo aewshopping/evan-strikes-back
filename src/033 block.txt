@@ -6,6 +6,6 @@ sort_key_fixed: auto
 
 options_link:
   - "[[src/036 block.txt | block]]"
-  - "[[src/038 swipe right.txt | swipe right]]"
-  - "[[src/034 swipe left.txt]]"
+  - "[[src/038 swipe right.txt | right]]"
+  - "[[src/034 swipe left.txt | left]]"
 ---

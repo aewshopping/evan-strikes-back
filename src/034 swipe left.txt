@@ -5,8 +5,8 @@ tags:
 sort_key_fixed: auto
 
 options_link:
-  - "[[src/033 block.txt]]"
-  - "[[src/035 swipe right.txt]]"
-  - "[[src/041 swipe left 2.txt]]"
+  - "[[src/033 block.txt | block]]"
+  - "[[src/035 swipe right.txt | right]]"
+  - "[[src/041 swipe left 2.txt | left]]"
 ---
 
