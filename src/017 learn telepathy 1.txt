@@ -1,0 +1,15 @@
+---
+title: Mind reading
+tags:
+  - part2
+  - chapter
+id: a017
+sort_key_fixed: auto
+permalink: a017
+options_link:
+  - "[[src/016 learn telekinesis 1.txt | try telekinesis instead]]"
+  - "[[src/022 telepathy 1 success.txt | TEMP get 27]]"
+---
+
+Try to read the yodalihoos mind by calculating a secret number.
+Think of a number between 1-10. Times by 6. Add the digits together. Times the number by itself. Add the digits together again. Times the answer by 3. (This will always equal 27)

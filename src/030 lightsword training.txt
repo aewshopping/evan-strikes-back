@@ -1,0 +1,10 @@
+---
+title: The final test - sword fight!
+tags:
+  - part2
+  - chapter
+id: a030
+sort_key_fixed: auto
+permalink: a030
+---
+You begin your final training session with a light sword

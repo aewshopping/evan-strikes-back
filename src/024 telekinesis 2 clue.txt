@@ -1,0 +1,11 @@
+---
+title: Give me a clue
+tags:
+  - part2
+  - chapter
+id: a024
+sort_key_fixed: auto
+permalink: a024
+options_link:
+  - "[[src/023 learn telekinesis 2.txt]]"
+---

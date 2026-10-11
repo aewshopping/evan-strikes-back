@@ -1,0 +1,13 @@
+---
+title: Swamp thing
+tags:
+  - part2
+  - chapter
+id: a014
+sort_key_fixed: auto
+permalink: a014
+options_link:
+  - "[[src/015 commence training.txt]]"
+---
+
+meet the alien yodalihoo

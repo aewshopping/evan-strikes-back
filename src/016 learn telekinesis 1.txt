@@ -1,0 +1,16 @@
+---
+title: Mind over matter
+tags:
+  - part2
+  - chapter
+id: a016
+sort_key_fixed: auto
+permalink: a016
+options_link:
+  - "[[src/018 telekinesis 1 clue.txt]]"
+  - "[[src/019 telekinesis 1 not quite right.txt | TEMP guess 4]]"
+  - "[[src/020 correct telekinesis 1.txt | TEMP guess 5]]"
+  - "[[src/017 learn telepathy 1.txt | try mind reading instead]]"
+---
+
+You have six sticks. By moving them around with your mind, how many squares can you make?

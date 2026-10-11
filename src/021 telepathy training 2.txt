@@ -1,0 +1,13 @@
+---
+title: Mind reading
+tags:
+  - part2
+  - chapter
+id: a021
+sort_key_fixed: auto
+permalink: a021
+options_link:
+  - "[[src/029 telepathy 2 success.txt | TEMP get 18]]"
+---
+solve a tricky mathematical calculation.
+Think of a number between 1-10. Times by 3. Add the digits together. Times the number by itself. Add the digits together again. Times the answer by 2. (This will always equal 18)

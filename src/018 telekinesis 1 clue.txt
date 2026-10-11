@@ -1,0 +1,13 @@
+---
+title: A little help please
+tags:
+  - part2
+  - chapter
+id: a018
+sort_key_fixed: auto
+permalink: a018
+options_link:
+  - "[[src/016 learn telekinesis 1 | try again.txt]]"
+  - "[[src/017 learn telepathy 1 | try mind reading instead.txt]]"
+---
+Try using real sticks or pencils or whatever and remember that they can overlap.

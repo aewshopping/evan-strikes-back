@@ -1,0 +1,12 @@
+---
+title: Not quite - keep trying!
+tags:
+  - part2
+  - chapter
+id: a026
+sort_key_fixed: 9
+permalink: a026
+options_link:
+  - "[[src/023 learn telekinesis 2.txt]]"
+---
+You have thought about the small squares but what about the outer squares...?

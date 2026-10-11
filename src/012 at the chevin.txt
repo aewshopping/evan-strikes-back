@@ -6,4 +6,7 @@ tags:
 id: a012
 sort_key_fixed: auto
 permalink: a012
+options_link:
+  - "[[src/013 hotdog van.txt | follow your nose]]"
+  - "[[src/014 chevin swamp.txt | tingling in your blood]]"
 ---

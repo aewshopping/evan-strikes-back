@@ -1,0 +1,11 @@
+---
+title: The hotdog van
+tags:
+  - part2
+  - chapter
+id: a013
+sort_key_fixed: auto
+permalink: a013
+options_link:
+  - "[[src/014 chevin swamp.txt]]"
+---

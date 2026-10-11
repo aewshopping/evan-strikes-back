@@ -1,0 +1,12 @@
+---
+title: Not quite - keep trying!
+tags:
+  - part2
+  - chapter
+id: a025
+sort_key_fixed: 2
+permalink: a025
+options_link:
+  - "[[src/023 learn telekinesis 2.txt]]"
+---
+Not quite - Evan is told to think about crossing the sticks like a noughts and crosses game

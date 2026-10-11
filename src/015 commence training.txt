@@ -1,0 +1,14 @@
+---
+title: Let the training begin
+tags:
+  - part2
+  - chapter
+id: a015
+sort_key_fixed: auto
+permalink: a015
+options_link:
+  - "[[src/016 learn telekinesis 1.txt]]"
+  - "[[src/017 learn telepathy 1.txt]]"
+---
+
+You begin your training to harness your new powers

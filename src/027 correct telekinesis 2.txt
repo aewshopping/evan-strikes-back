@@ -1,0 +1,12 @@
+---
+title: Master of the mind
+tags:
+  - part2
+  - chapter
+id: a027
+sort_key_fixed: 14
+permalink: a027
+options_link:
+  - "[[src/030 lightsword training.txt]]"
+---
+Amazing you did it!

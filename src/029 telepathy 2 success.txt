@@ -1,0 +1,12 @@
+---
+title: Fantastic, you did it!
+tags:
+  - part2
+  - chapter
+id: a029
+sort_key_fixed: 18
+permalink: a029
+options_link:
+  - "[[src/030 lightsword training.txt]]"
+---
+You got the answer - 18

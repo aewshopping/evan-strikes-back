@@ -1,0 +1,17 @@
+---
+title: Mental gymnastics
+tags:
+  - part2
+  - chapter
+id: a023
+sort_key_fixed: auto
+permalink: a023
+options_link:
+  - "[[src/024 telekinesis 2 clue.txt]]"
+  - "[[src/025 telekinesis 2 not quite right A.txt | TEMP guess 2]]"
+  - "[[src/026 telekinesis 2 not quite right B.txt | TEMP guess 9]]"
+  - "[[src/027 correct telekinesis 2.txt | TEMP guess 14]]"
+  - "[[src/028 telekinesis 2 not quite right C.txt | TEMP guess 10]]"
+---
+
+You have eight sticks. By moving them around with your mind, how many squares can you make?

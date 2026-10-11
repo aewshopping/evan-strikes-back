@@ -1,0 +1,12 @@
+---
+title: Very close, but not quite!
+tags:
+  - part2
+  - chapter
+id: a028
+sort_key_fixed: 10
+permalink: a028
+options_link:
+  - "[[src/023 learn telekinesis 2.txt]]"
+---
+You have thought about the small squares, and the outer square but what about the middle sized squares?

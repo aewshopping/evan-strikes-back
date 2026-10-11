@@ -1,0 +1,12 @@
+---
+title: Mind reading maestro
+tags:
+  - part2
+  - chapter
+id: a022
+sort_key_fixed: 27
+permalink: a022
+options_link:
+  - "[[src/023 learn telekinesis 2.txt]]"
+---
+You read yodalihoo's mind and got the number right, now onto the mind moving training

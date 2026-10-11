@@ -1,0 +1,12 @@
+---
+title: Mastery of the mind
+tags:
+  - part2
+  - chapter
+id: a020
+sort_key_fixed: 5
+permalink: a020
+options_link:
+  - "[[src/021 telepathy training 2.txt]]"
+---
+you did it! Brilliant, now onto the mind reading
