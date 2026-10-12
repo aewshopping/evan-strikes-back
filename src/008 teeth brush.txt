@@ -6,7 +6,7 @@ permalink: a008
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
-  - first decision text
+  - You follow the robot up the stairs to see what he will do.
 
 options_link:
   - "[[src/010 robo clean.txt | robo clean]]"
@@ -15,5 +15,21 @@ tags:
   - chapter
 options_id:
   - a010
+color: "#c8e6f0"
 ---
 
+You decide to brush your teeth first - they do feel a bit grimy, you may have forgotten to brush them last night. 
+
+"B9-QT1" you say, "I'm going to brush my teeth now then tidy my room, but you stay there and I will come back and listen to your secret message."
+
+"Would you like me to help you brush your teeth Evan?" enquires the robot. "I was originally constructed as a serving droid and have am well equipped to attend to your personal toilet."
+
+"I'm not sure I know what you..." your voice trails off as the golden robot extends a hand, with one finger outstretched. As you watch bristles start protruding from his finger. In a few seconds his finger has become one long toothbrush. 
+
+After a brief a hacking coughing sound, he reaches into his mouth and brings out a small but perfectly formed pellet of mint toothpaste which he smears on his bristly finger. 
+
+B9-QT1 brushes your teeth at lightening speed, his finger a golden blur as it pistons in and out of your mouth. But his touch is so delicate you almost don't feel a thing. In a few seconds it is over and your teeth feel cleaner than they have ever felt before.
+
+Having your own robot is brilliant! 
+
+"Now to tidy your room," announced B9-QT1, as he minces up the stairs.
