@@ -6,7 +6,7 @@ permalink: a007
 sort_key_fixed: auto
 sort_key_calc:
 options_text:
-  - first decision text
+  - "Are you good at cleaning teeth as well?" you ask hopefully.
 
 options_link:
   - "[[src/011 brush teeth.txt | brush teeth]]"
@@ -15,5 +15,35 @@ tags:
   - chapter
 options_id:
   - a011
+color: "#c8e6f0"
 ---
+
+You decide to tidy your room first: you had meant to do it last week, and the week before that... 
+
+"B9-QT1" you say, "I'm going to tidy my room now and then brush my teeth, but you stay there and I will come back and listen to your secret message."
+
+"Would you like me to assist you?" enquires the robot. "I was originally constructed as a serving droid and annually sanitised the Emperor Palindrome's interstellar hypogyr stables."
+
+You are delighted to have the robot help you out - tidying your room has never been your favourite job - and follow him as he minces up the stairs to your bedroom.
+
+The golden robot stands in the middle of the room and looks around him, his golden hands on his golden hips 
+
+It _is_ a bit of a mess you have to admit.
+
+There _are_ a few piles of dirty clothes spread out on the floor. There _might be_ one or two drawers full of toys scattered about the room, a good number of which are broken. There _may_ be a plate of mouldy broccoli under the bed that you had hidden there to avoid having to eat it a couple of weeks ago.
+
+But none of this fazes your new robot pal. 
+
+After a couple of contemplative bleeps he whirrs into action, his arms moving so fast they are a golden blur as he folds the clothes, mends the broken toys and puts everything in the right place. 
+
+In a final flourish he inserts the mouldy broccoli into his mouth, chomps it to a pulp and gulps it down explaining that any biomass is for him an excellent source of fuel. 
+
+You look around - your bedroom is impeccable.
+
+"Thank you B9-QT1" you say. 
+
+"That's quite alright young master Evan. Tidying your bedroom is a delight compared to cleaning out the interstellar hippogyr stables of the Emperor Palindrome in the Meadow Muffin Nebula."
+
+"Are you good at cleaning teeth as well?" you ask hopefully.
+
 

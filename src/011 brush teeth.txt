@@ -2,6 +2,9 @@
 title: Knasher basher
 options_link:
   - "[[src/009 secret message.txt | secret message]]"
+options_text:
+  - You head back down to the living room to listen to your secret message
+
 tags:
   - part1
   - chapter
@@ -10,5 +13,17 @@ sort_key_fixed: auto
 permalink: a011
 options_id:
   - a009
+color: "#c8e6f0"
 ---
+
+"I'm fully qualified to clean the teeth or any other body part of more than 300 different sentient and non sentient creatures," explains the marvelous robot. "Open wide please"
+
+Your jaw drops open of its own accord as the golden robot extends a golden finger and stiff golden bristles start growing along its length. In a few seconds his finger has become one long toothbrush! 
+
+After a brief a hacking coughing sound, he reaches into his mouth and brings out a small but perfectly formed pellet of mint toothpaste which he smears on his bristly finger. 
+
+B9-QT1 brushes your teeth at lightening speed, his finger a golden blur as it pistons in and out of your mouth. But his touch is so delicate you almost don't feel a thing. In a few seconds it is over and your teeth feel cleaner than they have ever felt before.
+
+Having your own robot is brilliant! 
+
 
