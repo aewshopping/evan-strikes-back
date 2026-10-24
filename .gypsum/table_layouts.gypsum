@@ -30,7 +30,7 @@
   "active": "story_layout",
   "layouts": {
     "story_layout": {
-      "updated": "2026-10-04T18:45:50.555Z",
+      "updated": "2026-10-24T09:22:16.231Z",
       "stickyColumns": 1,
       "columns": [
         {
@@ -163,7 +163,7 @@
           "order": 18,
           "name": "linked:1",
           "label": "linked:1",
-          "width": 100,
+          "width": 223,
           "visible": true
         }
       ]
